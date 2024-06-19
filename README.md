@@ -1,2 +1,2 @@
-# CSS-B-sico
+# CSS-Basico
 Proyecto básico de CSS.

@@ -1,0 +1,85 @@
+html{
+    min-height: 100%;
+    position: relative;
+}
+
+body{
+    color: black;
+    font-size: 30px;
+    font-family: "Mulish", sans-serif;
+    background-color: white;
+    background-image: url('');
+    background-size: cover;
+    margin: 0;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    background-color: white;
+    padding-left: 45%;
+    padding-right: 46%;
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    font-size: 45px;
+    margin: 0;
+    color: rgb(9, 127, 167);
+    text-align: center;
+}
+
+table{
+    font-size: 30px;
+    border: black solid 4px;
+    padding: 0px 50px 0px 50px;
+    margin: 50px 20px 50px 0px;
+}
+
+caption{
+    border: black solid 4px;
+    padding: 5px;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+}
+
+li{
+    margin: 0px 200px 0px 0px;
+}
+
+.table1{
+    color: purple;
+}
+
+.table2{
+    color:purple;
+}
+
+.tablecontainer{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.indexbutton{
+    color: orangered;
+}
+
+.footer{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}

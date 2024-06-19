@@ -1,0 +1,27 @@
+.contacto{
+    color: rgb(9, 127, 167);
+    text-align: center;
+    font-size: 45px;
+    margin: 0;
+}
+
+.biografiabutton{
+    color: red;
+    font-size: 25px;
+    padding: 0px 0px 0px 15px;
+}
+
+.ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.a{
+    color: inherit;
+    text-decoration: none;
+}
+
+.informacion{
+    color: rgb(9, 127, 167);
+    padding: 0px 0px 0px 50px;
+}

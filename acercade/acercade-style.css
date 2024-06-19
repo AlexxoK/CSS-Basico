@@ -1,0 +1,38 @@
+.acercade{
+    color: rgb(9, 127, 167);
+    text-align: center;
+    font-size: 45px;
+    margin: 0;
+}
+
+.th{
+    color: rgb(0, 0, 166);
+    padding: 100px 0px 0px 200px;
+    font-size: 40px;
+}
+
+.img{
+    list-style-type: none;
+}
+
+.div{
+    display: flex;
+    padding: 40px 0px 0px 200px;
+}
+
+.table1{
+    text-align: start;
+    justify-content: center;
+}
+
+.contenedort{
+    padding: 50px 0px 0px 285px;
+}
+
+.tb{
+    padding: 0px 0px 0px 500px;
+}
+
+.td{
+    text-align: center;
+}

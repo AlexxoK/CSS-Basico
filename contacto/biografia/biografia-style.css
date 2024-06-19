@@ -1,0 +1,19 @@
+.h1{
+    color: rgb(9, 127, 167);
+    padding: 0px 0px 0px 20px;
+}
+
+.h3{
+    color: gray;
+    text-align: center;
+}
+
+.p{
+    color: black;
+    text-align: center;
+}
+
+.tittle{
+    color: black;
+    font-size: 30px;
+}
